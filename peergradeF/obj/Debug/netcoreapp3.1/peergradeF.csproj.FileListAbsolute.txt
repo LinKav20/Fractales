@@ -1,0 +1,15 @@
+C:\Users\Linok\source\repos\peergradeF\bin\Debug\netcoreapp3.1\peergradeF.exe
+C:\Users\Linok\source\repos\peergradeF\bin\Debug\netcoreapp3.1\peergradeF.deps.json
+C:\Users\Linok\source\repos\peergradeF\bin\Debug\netcoreapp3.1\peergradeF.runtimeconfig.json
+C:\Users\Linok\source\repos\peergradeF\bin\Debug\netcoreapp3.1\peergradeF.runtimeconfig.dev.json
+C:\Users\Linok\source\repos\peergradeF\bin\Debug\netcoreapp3.1\peergradeF.dll
+C:\Users\Linok\source\repos\peergradeF\bin\Debug\netcoreapp3.1\peergradeF.pdb
+C:\Users\Linok\source\repos\peergradeF\obj\Debug\netcoreapp3.1\peergradeF.csprojAssemblyReference.cache
+C:\Users\Linok\source\repos\peergradeF\obj\Debug\netcoreapp3.1\peergradeF.Form1.resources
+C:\Users\Linok\source\repos\peergradeF\obj\Debug\netcoreapp3.1\peergradeF.csproj.GenerateResource.cache
+C:\Users\Linok\source\repos\peergradeF\obj\Debug\netcoreapp3.1\peergradeF.AssemblyInfoInputs.cache
+C:\Users\Linok\source\repos\peergradeF\obj\Debug\netcoreapp3.1\peergradeF.AssemblyInfo.cs
+C:\Users\Linok\source\repos\peergradeF\obj\Debug\netcoreapp3.1\peergradeF.csproj.CoreCompileInputs.cache
+C:\Users\Linok\source\repos\peergradeF\obj\Debug\netcoreapp3.1\peergradeF.dll
+C:\Users\Linok\source\repos\peergradeF\obj\Debug\netcoreapp3.1\peergradeF.pdb
+C:\Users\Linok\source\repos\peergradeF\obj\Debug\netcoreapp3.1\peergradeF.genruntimeconfig.cache
